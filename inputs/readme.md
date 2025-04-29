@@ -15,6 +15,7 @@ Com a crescente concorrência e o desejo de otimizar a produção e evitar despe
 O objetivo principal era entender:
 - **Quantos clientes**, em média, passavam pela padaria diariamente para comprar pão de sal.
 - **Como esse número variava ao longo da semana.**
+- **Entender a quantidade média de pão de sal vendido por dia.**
 
 Essa informação seria crucial para:
 - Ajustar a produção.
