@@ -21,3 +21,40 @@ Essa informação seria crucial para:
 - Ajustar a produção.
 - Planejar o quadro de funcionários.
 - Desenvolver estratégias de marketing mais eficazes.
+
+
+
+
+
+## Resultados do treinamento AutoML
+![image](https://github.com/user-attachments/assets/e71cd2a7-9218-4636-86df-1980b50d60ca)
+
+
+![image](https://github.com/user-attachments/assets/b8d03353-25b7-465d-8a3f-3c2c57fdf20e)
+
+
+![image](https://github.com/user-attachments/assets/fec635e6-40d8-47d2-99da-3148a07fbf16)
+
+
+![image](https://github.com/user-attachments/assets/36f0947d-78e6-4c04-ad56-722b88b972fc)
+
+
+### Análise
+
+O resultado foi excelente. O modelo conseguiu acertar com muita precisão as quantidades vendidas em cada dia:
+
+O erro médio nas previsões foi de cerca de 1 a 2 pães por dia, o que é muito pequeno.
+
+A confiança do modelo foi de mais de 98%, mostrando que ele entendeu bem o comportamento dos clientes.
+
+-- Isso significa que agora a padaria pode:
+
+- Produzir a quantidade ideal de pães por dia, evitando sobras ou faltas.
+
+- Planejar melhor os horários dos funcionários, de acordo com os dias mais movimentados.
+
+- Criar promoções em dias mais fracos, atraindo mais clientes.
+
+Em resumo, Seu João agora pode tomar decisões com base em dados reais, não só na intuição, tornando a padaria mais eficiente e lucrativa — tudo isso com a ajuda da tecnologia, sem complicação.
+
+
